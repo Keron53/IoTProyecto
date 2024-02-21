@@ -4,15 +4,15 @@
 
 /************************* WiFi Access Point *******************************/
 
-#define WIFI_SSID       "EPP_EXT"
-#define WIFI_PASS       "cafe2021@"
+#define WIFI_SSID       "SSID"
+#define WIFI_PASS       "PASS"
 
 /************************* Adafruit.io Setup *********************************/
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   
-#define AIO_USERNAME    "Keso"            
-#define AIO_KEY         "aio_BztM63xmDbKFTJcNnw4MlY0DEBSs"
+#define AIO_USERNAME    "USERNAME"            
+#define AIO_KEY         "KEY"
 
 /************************* MQTT Topics ***************************************/
 
